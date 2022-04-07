@@ -14,6 +14,8 @@ Compared to conventional BERT models, our model increases the maximum input leng
 We empirically examine different hyper-parameters to identify an optimal trade-off given computational resource limits. 
 
 Our experiment results on the MIMIC-III dataset for different prediction tasks demonstrate that the proposed Hierarchical Transformer Network outperforms previous state-of-the-art models, including but not limited to BigBird.
+
+For more details, please check out here: https://arxiv.org/pdf/2104.08444.pdf
 ## Citing
 
 ```
